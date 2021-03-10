@@ -1,0 +1,13 @@
+blockquote {
+	font-family: "Lato", Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: 300;
+}
+
+body {
+	background-color: #f7cac9
+}
+
+h2 {
+	border: 2px solid #92a8d1;
+}
